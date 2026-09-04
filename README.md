@@ -45,25 +45,33 @@ Compile a program:
 
 ```bash
 g++ filename.cpp -o filename
+```
 
 Run the program:
 
+```bash
 .\filename
-Example
+```
+
+### Example
+
+```bash
 g++ marks.cpp -o marks
 .\marks
-Purpose
+```
+
+## Purpose
 
 The purpose of this repository is to practice C++ programming and understand the basic implementation of Classes and Objects through practical examples.
 
-Academic Information
+## Academic Information
 
-Program: B.Tech CSE
-University: VIT Bhopal University
+**Program:** B.Tech CSE  
+**University:** VIT Bhopal University
 
-Author
+## Author
 
-Divyanshu Kumar
+**Divyanshu Kumar**
 
-B.Tech CSE
-VIT Bhopal Universit
+B.Tech CSE  
+VIT Bhopal University
